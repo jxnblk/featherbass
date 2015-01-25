@@ -1,0 +1,74 @@
+{
+  "name": "featherbass",
+  "version": "0.0.2",
+  "description": "Clean, writerly theme for Basscss",
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "dependencies": {
+    "basscss-base-buttons": "latest",
+    "basscss-base-forms": "latest",
+    "basscss-base-reset": "latest",
+    "basscss-base-tables": "^0.1.1",
+    "basscss-base-typography": "latest",
+    "basscss-color-base": "latest",
+    "basscss-color-borders": "latest",
+    "basscss-color-buttons": "latest",
+    "basscss-background-images": "latest",
+    "basscss-button-blue": "latest",
+    "basscss-button-blue-outline": "latest",
+    "basscss-button-red": "latest",
+    "basscss-button-gray": "latest",
+    "basscss-button-light-gray": "latest",
+    "basscss-button-nav-light": "latest",
+    "basscss-button-nav-dark": "latest",
+    "basscss-button-nav-tab": "latest",
+    "basscss-color-forms": "latest",
+    "basscss-color-forms-dark": "latest",
+    "basscss-color-tables": "^0.1.0",
+    "basscss-colors": "latest",
+    "basscss-defaults": "latest",
+    "basscss-grid": "latest",
+    "basscss-positions": "latest",
+    "basscss-table-object": "latest",
+    "basscss-ui-utility-button-sizes": "latest",
+    "basscss-ui-utility-disclosure-states": "latest",
+    "basscss-ui-utility-groups": "latest",
+    "basscss-utility-headings": "0.0.6",
+    "basscss-utility-layout": "latest",
+    "basscss-utility-responsive-states": "latest",
+    "basscss-utility-typography": "latest",
+    "basscss-utility-white-space": "latest",
+    "flex-object": "latest",
+    "basscss-highlight": "latest"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-basswork": "0.0.9",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-rename": "^1.2.0",
+    "gulp-webserver": "^0.8.7",
+    "marked": "^0.3.2",
+    "lodash": "^2.4.1",
+    "marked-example": "^1.0.4",
+    "gulp-s3": "^0.3.0",
+    "humanize-plus": "^1.5.0",
+    "cheerio": "^0.18.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxnblk/featherbass.git"
+  },
+  "keywords": [
+    "CSS",
+    "OOCSS",
+    "Basscss",
+    "Gulp"
+  ],
+  "bugs": {
+    "url": "https://github.com/jxnblk/featherbass/issues"
+  },
+  "homepage": "https://github.com/jxnblk/featherbass"
+}
